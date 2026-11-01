@@ -15,3 +15,9 @@ Updated: 1 November 2026.
 Detailed source inventory, influence matrix, delivery handoff, and learning-loop proposal: [Collective wisdom foundation](../docs/COLLECTIVE_WISDOM_FOUNDATION_2026-11-01.md).
 
 This file is durable repository context. It does not establish ChatGPT account-level memory or a connected Yawdie runtime.
+
+## Global ensemble direction
+- Each Mob, as well as the twelve-leader ensemble, should be multilingual and span varied regions, adult life stages and personalities.
+- Characters are beginnings that evolve over three to five years and beyond; preserve identity continuity while skills and roles grow.
+- Preserve and reconcile historical character work before inventing replacements. Direct Google Drive reads recovered the AMA_AGINT_MOBS folder, campus sheet and deep dives with 36 named character descriptions. Historical leaders differ from the later working roster; do not silently merge or replace them.
+- [Global character atlas v0.1](../characters/GLOBAL_CHARACTER_ATLAS_v0.1.md) contains source links, the naming conflict table, proposed global leader map and development schema. All new cultural connections, apparent ages and language assignments are draft design targets, not demonstrated runtime abilities.
